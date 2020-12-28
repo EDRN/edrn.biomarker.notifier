@@ -1,0 +1,3 @@
+[console_scripts]
+biomarker-notifier = edrn.biomarker.notifier.main:main
+
