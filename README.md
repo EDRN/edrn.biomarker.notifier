@@ -7,6 +7,6 @@ The EDRN Biomarker Notifir watches for changes from the [Data Management and Coo
 
 Try:
 
-    python3 -m venv venv
+    python3 -m venv .venv
     venv/bin/pip install .
 
